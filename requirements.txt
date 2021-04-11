@@ -1,0 +1,15 @@
+cycler==0.10.0
+kiwisolver==1.3.1
+llvmlite==0.35.0
+matplotlib==3.3.3
+numba==0.52.0
+numpy==1.19.5
+pandas==1.2.0
+Pillow==8.1.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.5
+scipy==1.6.0
+seaborn==0.11.1
+six==1.15.0
+tqdm==4.56.0
