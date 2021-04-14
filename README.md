@@ -1,4 +1,4 @@
-This repository contains the source code to reproduce our work, accepted as a short paper at UMAP'2021.
+This repository contains the source code to reproduce our work ["Dynamic Modeling of User Preferences for Stable Recommendations"](https://arxiv.org/pdf/2104.05047.pdf), accepted as a short paper at UMAP'2021.
 
 ## Requirements
 - Python 3.8.1
